@@ -355,7 +355,7 @@ def load_config():
 
     UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
     if len(UPSTREAM_REPO) == 0: 
-        UPSTREAM_REPO = 'https://github.com/weebzone/WZML'
+        UPSTREAM_REPO = 'https://github.com/MHJoy99/personal-bot-new'
 
     UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
     if len(UPSTREAM_BRANCH) == 0:   
